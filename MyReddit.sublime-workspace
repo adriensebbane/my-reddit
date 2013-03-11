@@ -1,0 +1,607 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"thin",
+				"thingArray"
+			],
+			[
+				"con",
+				"convertView"
+			],
+			[
+				"redd",
+				"redditListView"
+			],
+			[
+				"cur",
+				"currentThing"
+			],
+			[
+				"GZ",
+				"GZIPInputStream"
+			],
+			[
+				"Http",
+				"HttpParams"
+			],
+			[
+				"crea",
+				"createQuery"
+			],
+			[
+				"app",
+				"append"
+			],
+			[
+				"th",
+				"this"
+			],
+			[
+				"the",
+				"theThing"
+			],
+			[
+				"T",
+				"TAG"
+			],
+			[
+				"cu",
+				"currentChild"
+			],
+			[
+				"ch",
+				"children"
+			],
+			[
+				"D",
+				"DEFAULT_TAG"
+			],
+			[
+				"c",
+				"code"
+			],
+			[
+				"newn",
+				"newnum_reports"
+			],
+			[
+				"num_",
+				"num_reports"
+			],
+			[
+				"medi",
+				"media"
+			],
+			[
+				"me",
+				"media"
+			],
+			[
+				"media",
+				"media_embed"
+			],
+			[
+				"curr",
+				"current_line"
+			],
+			[
+				"cl",
+				"close_file"
+			],
+			[
+				"op",
+				"open_file"
+			],
+			[
+				"sett",
+				"setter_str"
+			],
+			[
+				"gett",
+				"getter_str"
+			],
+			[
+				"att",
+				"attribute_suffix"
+			],
+			[
+				"len",
+				"length"
+			],
+			[
+				"le",
+				"length"
+			],
+			[
+				"__",
+				"__types"
+			],
+			[
+				"match",
+				"matches"
+			],
+			[
+				"mat",
+				"match_object"
+			],
+			[
+				"ATT",
+				"ATTR_REGEXP"
+			],
+			[
+				"re",
+				"read_line"
+			],
+			[
+				"__f",
+				"__file_object"
+			],
+			[
+				"f",
+				"file_name"
+			],
+			[
+				"file",
+				"file_name"
+			],
+			[
+				"creat",
+				"created_utc"
+			],
+			[
+				"aut",
+				"author"
+			],
+			[
+				"ah",
+				"author_flair_css_class"
+			],
+			[
+				"lin",
+				"link_flair_css_class"
+			],
+			[
+				"subr",
+				"subreddit_id"
+			],
+			[
+				"getJ",
+				"getJsonFactory"
+			],
+			[
+				"Json",
+				"JsonParser"
+			],
+			[
+				"ma",
+				"maxLines"
+			],
+			[
+				"line",
+				"lineCount"
+			],
+			[
+				"Bu",
+				"BufferedReader"
+			],
+			[
+				"Htt",
+				"HttpResponse"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "src/org/edwardonbebop/reddit/Test.java",
+			"settings":
+			{
+				"buffer_size": 4766,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "{\n	\"cmd\": [\"make\"]\n}\n",
+			"settings":
+			{
+				"buffer_size": 21,
+				"line_ending": "Unix",
+				"name": "untitled.sublime-build"
+			}
+		},
+		{
+			"file": "src/org/edwardonbebop/reddit/ThingAdapter.java",
+			"settings":
+			{
+				"buffer_size": 1559,
+				"line_ending": "Unix",
+				"name": "public class ThingAdapter extends ArrayAdapter<Thi"
+			}
+		},
+		{
+			"file": "res/layout/default_layout.xml",
+			"settings":
+			{
+				"buffer_size": 414,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "res/layout/reddit_item.xml",
+			"settings":
+			{
+				"buffer_size": 633,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "res/values/strings.xml",
+			"settings":
+			{
+				"buffer_size": 110,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/org/edwardonbebop/reddit/Factory.java",
+			"settings":
+			{
+				"buffer_size": 1815,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "Packages/Java/Ant.sublime-build",
+	"command_palette":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/adrien/Development/Android/MyRedditProject/src/org/edwardonbebop/reddit/Test.java",
+		"/Users/adrien/Development/Android/MyRedditProject/AndroidManifest.xml",
+		"/Users/adrien/Development/Android/MyRedditProject/res/layout/default_layout.xml",
+		"/Users/adrien/Development/Android/MyRedditProject/gen/org/edwardonbebop/reddit/R.java",
+		"/Users/adrien/Development/Android/MyRedditProject/res/values/strings.xml",
+		"/Users/adrien/Development/Android/MyRedditProject/src/org/edwardonbebop/reddit/utils/JsonReader.java",
+		"/Users/adrien/Development/Android/MyRedditProject/src/org/edwardonbebop/reddit/Child.java",
+		"/Users/adrien/Development/Android/MyRedditProject/src/org/edwardonbebop/reddit/sample.json",
+		"/Users/adrien/Development/Android/MyRedditProject/src/org/edwardonbebop/reddit/Thing.java",
+		"/Users/adrien/Development/Android/MyRedditProject/src/org/edwardonbebop/reddit/Data.java",
+		"/Users/adrien/Development/Android/MyRedditProject/src/org/edwardonbebop/reddit/Listing.java",
+		"/Users/adrien/Development/Android/MyRedditProject/src/org/edwardonbebop/reddit/MediaEmbed.java",
+		"/Users/adrien/Development/Android/MyRedditProject/src/org/edwardonbebop/reddit/sample_media.json",
+		"/Users/adrien/Development/Android/MyRedditProject/src/org/edwardonbebop/reddit/Factory.java",
+		"/Users/adrien/Development/Android/MyRedditProject/src/org/edwardonbebop/reddit/MediaInfo.java",
+		"/Users/adrien/Development/Android/MyRedditProject/get_set.py",
+		"/Users/adrien/Development/Android/MyRedditProject/ant.properties",
+		"/Users/adrien/Development/Android/MyRedditProject/build.xml"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"items",
+			"item",
+			"default",
+			"kind",
+			"content",
+			"getMe",
+			"^",
+			"\\t",
+			"self",
+			"HttpGet"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"\\t",
+			"    ",
+			"this"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "src/org/edwardonbebop/reddit/Test.java",
+					"settings":
+					{
+						"buffer_size": 4766,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2477,
+								2477
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Java/Java.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1479.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"settings":
+					{
+						"buffer_size": 21,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								12,
+								16
+							]
+						],
+						"settings":
+						{
+							"default_dir": "/Users/adrien/Library/Application Support/Sublime Text 2/Packages/User",
+							"syntax": "Packages/JavaScript/JSON.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "src/org/edwardonbebop/reddit/ThingAdapter.java",
+					"settings":
+					{
+						"buffer_size": 1559,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1191,
+								1191
+							]
+						],
+						"settings":
+						{
+							"auto_name": "public class ThingAdapter extends ArrayAdapter<Thi",
+							"syntax": "Packages/Java/Java.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 284.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "res/layout/default_layout.xml",
+					"settings":
+					{
+						"buffer_size": 414,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								227,
+								257
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/XML/XML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "res/layout/reddit_item.xml",
+					"settings":
+					{
+						"buffer_size": 633,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								337,
+								337
+							]
+						],
+						"settings":
+						{
+							"auto_name": "",
+							"syntax": "Packages/XML/XML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "res/values/strings.xml",
+					"settings":
+					{
+						"buffer_size": 110,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								96,
+								96
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/XML/XML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "src/org/edwardonbebop/reddit/Factory.java",
+					"settings":
+					{
+						"buffer_size": 1815,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								578,
+								633
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Java/Java.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 170.0
+	},
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true
+}
